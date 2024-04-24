@@ -32,3 +32,9 @@ You can modify the server URL (http://server_IP:port) in the sio.connect() funct
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests
+
+## License
+
+This project is licensed under the MIT License.
+
+Feel free to adjust or expand upon it as needed!
